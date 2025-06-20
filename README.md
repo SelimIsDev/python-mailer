@@ -34,11 +34,9 @@ Example:<br>
 
 example1@gmail.com<br>
 example2@gmail.com<br>
-example3@gmail.com<br>
-
-or<br>
-
-example1@gmail.com, example2@gmail.com, example3@gmail.com<br>
+example3@gmail.com<br>_
+or<br>_
+example1@gmail.com, example2@gmail.com, example3@gmail.com<br>_
 
 3. **Run the Application**  
 - Double-click `main.py`  
