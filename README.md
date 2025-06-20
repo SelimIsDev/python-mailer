@@ -30,10 +30,10 @@ This script **only works with Gmail accounts that have 2-Step Verification enabl
 1. **Enter Recipient Emails**  
    Open the file:  
 Enter all recipient email addresses **either one per line** or **separated by commas**.  
-Example:
+Example:<br>
 example1@gmail.com<br>
 example2@gmail.com<br>
-example3@gmail.com<br>
+example3@gmail.com
 
 or 
 
