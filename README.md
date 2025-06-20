@@ -35,12 +35,11 @@ example1@gmail.com<br>
 example2@gmail.com<br>
 example3@gmail.com
 
-or 
+or
 
 example1@gmail.com, example2@gmail.com, example3@gmail.com
 
-
-2. **Run the Application**  
+3. **Run the Application**  
 - Double-click `main.py`  
 - Enter your Gmail address and the **16-digit app password**
 - Write your message
