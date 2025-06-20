@@ -35,7 +35,9 @@ Example:<br>
 example1@gmail.com<br>
 example2@gmail.com<br>
 example3@gmail.com<br>
+<br>
 or<br>
+<br>
 example1@gmail.com, example2@gmail.com, example3@gmail.com<br>
 
 3. **Run the Application**  
