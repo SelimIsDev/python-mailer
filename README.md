@@ -33,10 +33,8 @@ Enter all recipient email addresses **either one per line** or **separated by co
 Example:<br>
 example1@gmail.com<br>
 example2@gmail.com<br>
-example3@gmail.com
-
-or
-
+example3@gmail.com<br>
+or<br>
 example1@gmail.com, example2@gmail.com, example3@gmail.com
 
 3. **Run the Application**  
