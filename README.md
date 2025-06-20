@@ -40,7 +40,7 @@ or<br>
 <br>
 example1@gmail.com, example2@gmail.com, example3@gmail.com<br>
 
-3. **Run the Application**  
+2. **Run the Application**  
 - Double-click `main.py`  
 - Enter your Gmail address and the **16-digit app password**
 - Write your message
