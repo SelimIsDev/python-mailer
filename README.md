@@ -32,9 +32,9 @@ This script **only works with Gmail accounts that have 2-Step Verification enabl
 Enter all recipient email addresses **either one per line** or **separated by commas**.  
 Example:<br>
 
- ** example1@gmail.com<br>
- ** example2@gmail.com<br>
- ** example3@gmail.com<br>
+ **example1@gmail.com<br>
+ **example2@gmail.com<br>
+ **example3@gmail.com<br>
 <br>
 or<br>
 <br>
