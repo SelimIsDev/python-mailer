@@ -1,4 +1,4 @@
-# Python Bulk Email Sender
+# 📧 Python Bulk Email Sender
 
 This is a simple Python script to send bulk emails using Gmail SMTP.
 
@@ -32,9 +32,9 @@ This script **only works with Gmail accounts that have 2-Step Verification enabl
 Enter all recipient email addresses **either one per line** or **separated by commas**.  
 Example:<br>
 
- **example1@gmail.com<br>
- **example2@gmail.com<br>
- **example3@gmail.com<br>
+ example1@gmail.com<br>
+ example2@gmail.com<br>
+ example3@gmail.com<br>
 <br>
 or<br>
 <br>
@@ -51,6 +51,9 @@ example1@gmail.com, example2@gmail.com, example3@gmail.com<br>
 - Make sure your internet connection is active while running the script
 - Gmail may block suspicious login attempts; App Password bypasses this safely
 - Use responsibly — avoid spam
+
+## 🖼️ Screenshots
+<img src="https://github.com/user-attachments/assets/c44b7b8e-7b7a-4675-ba9d-548215086b4a" width="400">
 
 ---
 
