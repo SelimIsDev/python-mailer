@@ -53,7 +53,7 @@ example1@gmail.com, example2@gmail.com, example3@gmail.com<br>
 - Use responsibly — avoid spam
 
 ## 🖼️ Screenshots
-<img src="https://github.com/user-attachments/assets/c44b7b8e-7b7a-4675-ba9d-548215086b4a" width="400">
+<img src="https://github.com/user-attachments/assets/c44b7b8e-7b7a-4675-ba9d-548215086b4a" width="200">
 
 ---
 
