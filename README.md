@@ -1,4 +1,4 @@
-# 📧 Python Bulk Email Sender
+# 📧 Python Bulk Email Sender | 2021
 
 This is a simple Python script to send bulk emails using Gmail SMTP.
 
